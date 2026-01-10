@@ -42,7 +42,7 @@ Inspired by the work of **Prof. Anna Huang**, we are building "Jam Spaces" where
 
 ## 📬 Connect with the Lab
 - **Website:** [qaraamigen-ai.vercel.app](https://qaraamigen-ai.vercel.app/)
-- **Contact:** [Your Email Here]
+- **Contact:** ibrahimkhalid032@gmail.com
 - **Research Lead:** Khalid Ibrahim
 
 ---
