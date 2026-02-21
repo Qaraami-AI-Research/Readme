@@ -1,12 +1,14 @@
 # 🎼 Qaraami-Gen-AI: Deep Learning for Somali Heritage
 **Computational Ethnomusicology & Generative AI Research Laboratory**
 
+![Status](https://img.shields.io/badge/Status-Pro_Research_Lab-purple?style=for-the-badge&logo=github)
+![Research](https://img.shields.io/badge/Focus-Ethnomusicology-gold?style=for-the-badge)
+![Location](https://img.shields.io/badge/Region-Somaliland-green?style=for-the-badge)
+
 ---
 
 ## 🧬 Our Mission
 We are dedicated to the **digital restoration** and **algorithmic generation** of Somali microtonal music. Our work bridges the gap between historical archival materials (1950s–1990s) and modern machine learning architectures. We aim to solve the "Western bias" in Music Information Retrieval (MIR) by creating systems that natively understand the **Somali Pentatonic Scale** and the microtonal nuances of the **Oud (Kaban)**.
-
-
 
 ---
 
@@ -43,7 +45,7 @@ Inspired by the work of **Prof. Anna Huang**, we are building "Jam Spaces" where
 ## 📬 Connect with the Lab
 - **Website:** [qaraamigen-ai.vercel.app](https://qaraamigen-ai.vercel.app/)
 - **Contact:** ibrahimkhalid032@gmail.com
-- **Research Lead:** Khalid Ibrahim
+- **Research Lead:** [Khalid Ibrahim](https://github.com/KHALID2099)
 
 ---
 *“Training the system to hear the silence between the notes.”*
